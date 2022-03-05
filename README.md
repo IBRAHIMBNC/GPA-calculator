@@ -1,4 +1,4 @@
-# getx_practice
+# Gpa Calculator
 
 A new Flutter project.
 
